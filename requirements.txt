@@ -1,0 +1,6 @@
+python-telegram-bot==13.7
+requests==2.25.1
+telethon==1.21.1
+cryptography==3.4.7
+aiosqlite==0.16.0
+bcrypt==3.2.0
